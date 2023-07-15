@@ -20,9 +20,8 @@ Bu program, kullanıcının girilen sıcaklık değerine göre farklı etkinlikl
 
 ## Lisans
 
-Bana Ulaşın [anilkalay8@gmail.com]
+Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasını inceleyebilirsiniz.
 ## İletişim
 
-Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen [email@example.com](mailto:email@example.com) adresine e-posta gönderin veya [proje sayfasını](https://github.com/kullanici/proje) ziyaret edin.
-
+Bana Ulaşın [anilkalay8@gmail.com]
 
